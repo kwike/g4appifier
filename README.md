@@ -1,3 +1,6 @@
 # g4appifier
+...
 games for Appifier
-<span style="padding:20px; background-color: dodgerblue;">hello</span>
+...
+
+<div style="background-color: dodgerblue;">g4appifier is for kwike Appifier by abhay saxena. The apps are new games made in unity game engine</div>
